@@ -1,4 +1,7 @@
 C:\Users\ivanov\workspace\mvc-basic\src\main\java\pro\ivanov\package-info.java
 C:\Users\ivanov\workspace\mvc-basic\src\main\java\pro\ivanov\WebInitializer.java
-C:\Users\ivanov\workspace\mvc-basic\src\main\java\pro\ivanov\Config.java
-C:\Users\ivanov\workspace\mvc-basic\src\main\java\pro\ivanov\HomeController.java
+C:\Users\ivanov\workspace\mvc-basic\src\main\java\pro\ivanov\config\AppConfig.java
+C:\Users\ivanov\workspace\mvc-basic\src\main\java\pro\ivanov\config\package-info.java
+C:\Users\ivanov\workspace\mvc-basic\src\main\java\pro\ivanov\config\WebConfig.java
+C:\Users\ivanov\workspace\mvc-basic\src\main\java\pro\ivanov\controllers\package-info.java
+C:\Users\ivanov\workspace\mvc-basic\src\main\java\pro\ivanov\controllers\HomeController.java
