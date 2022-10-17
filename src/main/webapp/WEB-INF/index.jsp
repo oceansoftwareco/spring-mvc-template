@@ -8,6 +8,6 @@
 		<title>Hello Word!</title>
 	</head>
 	<body>
-		<h1>Hello word</h1>
+		 <h1>${msg}</h1>
 	</body>
 </html>

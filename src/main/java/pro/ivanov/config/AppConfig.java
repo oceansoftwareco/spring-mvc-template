@@ -5,6 +5,6 @@ import org.springframework.context.annotation.Configuration;
 
 @Configuration
 @ComponentScan("pro.ivanov")
-public class AppConfig  {
-	
+public class AppConfig {	
+
 }
