@@ -9,16 +9,17 @@
 
     <groupId>pro.ivanov</groupId>
     <artifactId>mvc-basic</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>1.0.0</version>
     <packaging>war</packaging>
 
     <name>Mvc basic web app</name>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <java.version>17</java.version>
+        <maven.compiler.source>1.8</maven.compiler.source>
+        <maven.compiler.target>1.8</maven.compiler.target>
     </properties>
-    
+
     <repositories>
     	<repository>
     		<id>spring-milestone</id>
